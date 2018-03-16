@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Network_Group_1", "Network_Group_1\Network_Group_1.pyproj", "{60E19B0B-7DB5-4FDC-8444-D9AB2F9D6676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E19B0B-7DB5-4FDC-8444-D9AB2F9D6676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E19B0B-7DB5-4FDC-8444-D9AB2F9D6676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1969CDA-D67A-4539-B5D6-9757E4CA5C76}
+	EndGlobalSection
+EndGlobal
