@@ -26,18 +26,6 @@
       <Link>Network_Group_1.py</Link>
     </Compile>
     <Compile Include="Network_Group_1.py" />
-    <Compile Include="salesbk.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="salesman.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="salesman_2.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="solverExample.py">
-      <SubType>Code</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.6" />
